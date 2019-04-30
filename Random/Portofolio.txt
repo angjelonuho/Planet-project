@@ -1,0 +1,34 @@
+<<<<<<------ NEW UPCOMING PORTOFOLIO WEBSITE ------------>>>>>>>>>>>>
+
+
+1. Have different layouts. 2 total layouts. Question How much time do you have.
+a.business layout: weather location , time and time spend in it. faster paste straight to the point.
+b.creative layout: more plesant and artistic.
+
+2. Every skill has unique presentation. (this part needs more thought) 
+
+3. Projects and step 2 must be combined somehow.
+
+4. CV life experiences with pictures should be featured.
+
+5. Animations should be featured.
+
+6. Changing desing and layout depending on time.
+
+
+Created with foundation.
+
+Photoshop layout ideas.
+
+
+
+#suit color formal design idea.
+
+Hi , Iam Angjelo 
+
+Thre things define me.
+I am an UI developer.
+Complex problem solving enthusiast.
+Innovating desing creator.
+
+color: #870C25;

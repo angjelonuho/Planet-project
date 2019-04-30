@@ -1,0 +1,362 @@
+
+/*#################################################### PHONE FRIENDLY ====================================================== */
+/*#################################################### PHONE FRIENDLY ====================================================== */
+/*#################################################### PHONE FRIENDLY ====================================================== */
+/*#################################################### PHONE FRIENDLY ====================================================== */
+
+@media only screen and (max-width: 480px) {
+    
+/*==================================================== NAVIGATION BAR ======================================================== */
+#profilePic {
+
+ width: 200px;
+ height: 200px;
+ border:5px solid #333;
+}
+
+
+.navbar {
+ width: 200px;
+ height:200px;
+ border:5px solid #333;
+
+}
+
+.item {
+
+ font-size: 25px;
+ 
+}
+
+#borderPro{
+ 
+ width: 189px;
+ height: 40px;
+ top:39.5%;
+
+}
+
+
+
+
+/*###### MINI-NAV #############*/
+
+
+.nav-pane {
+  left:5%;
+
+  width: 90%;
+
+
+
+}
+.mininavlink {
+  
+  width: 23.9%; /* an inch larger and watch everything burn */
+  font-size:14px;  
+}
+
+
+.toggle-nav {
+
+  left:43%;
+
+}
+
+.mininavul{
+  padding: 0;
+  position:relative;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
+
+
+/*==================================================== ./NAVIGATION BAR ====================================================== */
+
+/*======================================================= BODY ====================================================== */
+
+
+
+
+/*################## BACKGROUND BACKGROUND BACKGROUND #########################*/
+
+
+
+
+#background1{
+     
+display: none;
+ 
+    
+}
+
+#backgroundphone1 {
+
+	top: 50%;
+	left: 50%;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    transform: translateX(-50%) translateY(-50%);
+
+}
+
+
+
+
+/*################## ./BACKGROUND ./BACKGROUND ./BACKGROUND #########################*/
+
+
+
+/*##################### SOCIAL SOCIAL SOCIAL SOCIAL SOCIAL SOCIAL #####################*/
+
+
+#facebook{
+
+ width: 40px;
+ height: 40px;
+ top: 30%;
+ left: 12%;
+
+}
+
+@keyframes forbiting {
+  0% {
+
+    top:30%;
+    left: 9%;
+    z-index:4;
+    
+    transform: rotate(0deg);
+    animation-timing-function: ease-in-out;
+    
+    }
+
+  50% {
+
+    top: 32%;
+    left: 79%;
+    z-index: 4;
+    animation-timing-function: ease-in-out;
+    
+    }
+     51% {
+
+    z-index: 1;
+    
+    }
+
+  100%{
+
+    top:30%;
+    left: 9%;
+    z-index:1;
+    transform: rotate(-360deg);
+    animation-timing-function: ease-in-out;
+  }
+ 
+}
+
+
+
+#instagram{
+    
+    top: 15%;
+    left: 15%;
+    width: 40px;
+    height: 40px;
+ 
+}
+
+@keyframes iorbiting {
+  0% {
+
+    top:15%;
+    left:15%;
+    z-index: 4;
+    margin-top:0;
+    transform: rotate(0deg);
+    animation-timing-function: ease-in-out;
+
+    }
+
+  50% {
+
+    top:45%;
+    left: 80%; 
+    z-index:4;
+    animation-timing-function: ease-in-out;
+
+    }
+
+  51% {
+
+    z-index: 1;
+    
+    }
+
+  100%{
+
+    top:15%;
+    left: 15%;
+    z-index:1;
+    transform: rotate(-360deg);
+    animation-timing-function: ease-in-out;
+
+  }
+ 
+}
+
+
+#twitter{
+  
+    top: 29%;
+    left: 11%;
+    width: 40px;
+    height: 40px;
+ 
+    transform-origin: 400% center;
+    animation: torbiting 10s linear infinite;
+    
+    
+    }
+
+#twitter:before{
+  content: "";
+  position: absolute;
+  animation: rotate 7s linear reverse infinite;
+}
+
+@keyframes torbiting {
+
+  100% {
+    
+    z-index: 4;
+    transform: rotate(-360deg);
+    
+    }
+
+  
+ 
+}
+
+
+
+#linkedin{
+
+    top: 25%;
+    left: 11%;
+    z-index: 4;
+    width: 70px;
+    height: 70px;
+   
+}
+@keyframes lorbiting {
+  0% {
+
+    top:25%;
+    left: 11%;
+    z-index: 4;
+    margin-top:0;
+   
+    animation-timing-function: ease-in-out;
+
+    }
+
+  50% {
+
+    top:40%;
+    left: 85%; 
+    z-index:4;
+    animation-timing-function: ease-in-out;
+
+    }
+
+  51% {
+
+    z-index: 1;
+    
+    }
+
+  100%{
+
+    top:25%;
+    left: 11%;
+    z-index:1;
+   
+    animation-timing-function: ease-in-out;
+
+  }
+ 
+}
+
+
+
+
+
+
+
+
+
+
+/*##################### SOCIAL SOCIAL SOCIAL SOCIAL SOCIAL SOCIAL #####################*/
+
+
+
+
+/*################## BACKGROUND BACKGROUND BACKGROUND #########################*/
+
+
+#bottom1{
+ 
+   height:100px;
+   top: 95%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*################## ./BACKGROUND ./BACKGROUND ./BACKGROUND #########################*/
+
+
+
+
+
+/*#################################################### ./BODY ====================================================== */
+
+
+}
+
+
+
+
+
+
+/*#################################################### PHONE FRIENDLY ====================================================== */
+/*#################################################### PHONE FRIENDLY ====================================================== */
+/*#################################################### PHONE FRIENDLY ====================================================== */
+/*#################################################### PHONE FRIENDLY ====================================================== */
