@@ -252,7 +252,7 @@ body, html {
   top: 0;
   left:37.5%;
   z-index: 4;
-  width: 25%;
+  width:  410px;
 
   height: 5%;
   transition: 250ms;
@@ -280,7 +280,7 @@ body, html {
 
   top:5px;
   z-index:5;
-  left:48.3%;
+  left:50.3%;
   color: #212121;
   cursor: pointer;
   position: absolute;
@@ -362,7 +362,7 @@ body, html {
 
 .mininavlink {
 
-  width: 22%;
+  padding-right: 10px;
   color: white;
   font-size:17px;
   display: inline-block;
@@ -372,12 +372,9 @@ body, html {
 
 }
 .mininavul{
-  top: 30%;
-  width: 20%;
-  left: -2%;
-  padding: 5%;
   position:relative;
-  display: inline;
+  display: inline-block;
+  width: max-content;
 }
 .mininavlink:hover{
 
