@@ -2,7 +2,7 @@
 This is a turism guide/helper project simplifying information comming from different APIs.
 
 
-## Snapshots
+## Preview
 
 
 ## Getting Started
