@@ -1,5 +1,5 @@
 # Planet-project
-This is a turism guide/helper project simplifying information comming from different APIs.
+This was initially a portofolio idea. Can be used on many ways.
 
 
 ## Preview
